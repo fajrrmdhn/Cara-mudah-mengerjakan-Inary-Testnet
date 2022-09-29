@@ -33,3 +33,11 @@ Eksplorer Inary :
 |Komponen | Persyaratan Minimum |
 | ------------ | ------------ |
 | OS |  Ubuntu 18.04 atau lebih tinggi  | 
+
+## Registrasi Akun Testnet
+- Buka Link Registrasi : [Register Inery](https://testnet.inery.io/ "https://testnet.inery.io/")
+- Isi Data kalian Seperti di Bawah Ini.
+
+<p align="center">
+  <img height="auto" height="auto" src="https://ibb.co/x286qtP">
+</p>
