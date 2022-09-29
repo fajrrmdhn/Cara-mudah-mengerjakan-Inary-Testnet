@@ -37,7 +37,8 @@ Eksplorer Inary :
 ## Registrasi Akun Testnet
 - Buka Link Registrasi : [Register Inery](https://testnet.inery.io/ "https://testnet.inery.io/")
 - Isi Data kalian Seperti di Bawah Ini.
+![regist akun1](https://user-images.githubusercontent.com/91620434/192931934-a93ab7ec-1b86-4cdd-acae-502b0a71f925.png)
 
-<p align="center">
-  <img height="auto" height="auto" src="https://ibb.co/x286qtP">
-</p>
+
+
+
