@@ -20,6 +20,7 @@ Eksplorer Inary :
 ## Spesifikasi Testnet Inary
 
 > Hardware
+
 |  Komponen |  Persyaratan Minimum |
 | ------------ | ------------ |
 | CPU  | Intel Core i7-8700 Hexa-Core  |
@@ -28,6 +29,7 @@ Eksplorer Inary :
 | koneksi | Port 1 Gbit/dtk |
 
 > Software
+
 |Komponen | Persyaratan Minimum |
 | ------------ | ------------ |
 | OS |  Ubuntu 18.04 atau lebih tinggi  | 
